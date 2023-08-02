@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjay Kapoor @ms14099
 - 👀 I’m interested in the nature and applications of the quantum light
-- 🌱 I’m currently doing PhD in experimental quantum optics
+- 🌱 I’m currently doing PhD in experimental quantum optics at the Faculty of Physics, University of Warsaw.
 - 📫 You can email me on: s.kapoor@uw.edu.pl
 
 <!---
